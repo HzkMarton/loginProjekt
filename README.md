@@ -25,7 +25,7 @@ A projekt célja egy könnyen integrálható és testreszabható felület biztos
 
 ## Előnézet
 
-![Bejelentkező Felület Képe]([https://imgur.com/a/KnH0N2J](https://imgur.com/j0ugaTb))
+![Bejelentkező Felület Képe](https://imgur.com/j0ugaTb)
 
 ## Telepítés és futtatás
 

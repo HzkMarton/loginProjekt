@@ -45,5 +45,5 @@ Források:
 Ez a projekt az alábbi technológiákra épül:
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) (esetleg SASS vagy egy keretrendszer, pl. Bootstrap)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

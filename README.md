@@ -1,4 +1,4 @@
-# [Edzőterem Neve] - Bejelentkező Felület
+# Gym - Bejelentkező Felület
 
 ## Tartalomjegyzék
 
@@ -10,7 +10,7 @@
 
 ## A projektről
 
-A `[Edzőterem Neve] Bejelentkező Felület` egy modern, tiszta és biztonságos authentikációs megoldás, amely lehetővé teszi a tagok számára, hogy hozzáférjenek személyes profiljukhoz, megtekintsék az órarendet vagy online bejelentkezzenek egy-egy edzésre.
+A `[Gym] Bejelentkező Felület` egy modern, tiszta és biztonságos authentikációs megoldás, amely lehetővé teszi a tagok számára, hogy hozzáférjenek személyes profiljukhoz, megtekintsék az órarendet vagy online bejelentkezzenek egy-egy edzésre.
 
 A projekt célja egy könnyen integrálható és testreszabható felület biztosítása bármilyen edzőtermi menedzsment rendszerhez.
 
@@ -25,8 +25,7 @@ A projekt célja egy könnyen integrálható és testreszabható felület biztos
 
 ## Előnézet
 
-![Bejelentkező Felület Képe](ide_illeszd_be_a_kep_eleresi_utjat.png)
-*(Cseréld le ezt a sort egy képernyőképpel a projektedről!)*
+![Bejelentkező Felület Képe](https://imgur.com/a/KnH0N2J)
 
 ## Telepítés és futtatás
 
@@ -34,15 +33,20 @@ A projekt helyi gépen való futtatásához kövesd az alábbi lépéseket.
 
 1.  **Klónozd a repository-t:**
     ```bash
-    git clone [https://github.com/a-te-felhasznaloneved/a-projekt-neve.git](https://github.com/a-te-felhasznaloneved/a-projekt-neve.git)
+    git clone [https://github.com/HzkMarton/loginProjekt.git](https://github.com/HzkMarton/loginProjekt.git)
     ```
 2.  **Navigálj a projekt mappájába:**
     ```bash
-    cd a-projekt-neve
+    cd loginProjekt
     ```
 3.  **Nyisd meg az `index.html` fájlt** a kedvenc böngésződben, vagy használj egy live server kiegészítőt (pl. VS Code Live Server) a fejlesztéshez.
 
 ## Felhasznált technológiák
+
+Források:
+
+- [ICONS](https://icons8.com/)
+- [BACKGROUND](https://unsplash.com/s/photos/gym-background)
 
 Ez a projekt az alábbi technológiákra épül:
 

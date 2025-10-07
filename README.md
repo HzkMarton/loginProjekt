@@ -4,6 +4,7 @@
 
 - [A projektről](#a-projektről)
 - [Jellemzők](#jellemzők)
+- [Készítők](#készítők)
 - [Telepítés és futtatás](#telepítés-és-futtatás)
 - [Felhasznált technológiák](#felhasznált-technológiák)
 
@@ -20,6 +21,13 @@ A projekt célja egy könnyen integrálható és testreszabható felület biztos
 - 📝 **Beviteli mezők validációja** a hibás adatok elkerülése érdekében
 - 📱 **Teljesen reszponzív** dizájn, amely tökéletesen illeszkedik mobil, tablet és asztali képernyőkhöz is
 - 🎨 **Könnyen testreszabható** CSS változókkal (színek, betűtípusok)
+
+## Készítők
+👨‍💻 Rosta Márton - Frontend fejlesztő & UI/UX designer
+
+👨‍💻 Horváth Attila - Backend fejlesztő & Adatbázis specialista
+
+👨‍💻 Taliszter Kevin - Full-stack fejlesztő & Projekt koordinátor
 
 ## Telepítés és futtatás
 

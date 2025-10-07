@@ -35,7 +35,7 @@ A projekt helyi gépen való futtatásához kövesd az alábbi lépéseket.
 
 1.  **Klónozd a repository-t:**
     ```bash
-    git clone [https://github.com/HzkMarton/loginProjekt.git](https://github.com/HzkMarton/loginProjekt.git)
+    git clone https://github.com/HzkMarton/loginProjekt.git
     ```
 2.  **Navigálj a projekt mappájába:**
     ```bash
